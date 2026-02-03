@@ -43,6 +43,10 @@ implementation written in **Verilog HDL**, developed as part of the
 The full project report, including block diagrams, timing analysis, and waveforms,
 is available in the `docs/` folder.
 
+## Verification
+The design is verified using file-based and loopback testbenches.
+Both behavioral and post-implementation timing simulations were performed.
+
 ## 👤 Author
 **Mehmet Emin Delibaş**  
 Electronics and Communication Engineering  
