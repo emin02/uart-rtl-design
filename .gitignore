@@ -1,0 +1,17 @@
+# Vivado / FPGA generated files
+*.jou
+*.log
+*.wdb
+*.str
+*.xpr
+*.xml
+
+# Vivado directories
+.sim/
+.runs/
+.cache/
+.ip_user_files/
+
+# OS junk
+.DS_Store
+Thumbs.db
